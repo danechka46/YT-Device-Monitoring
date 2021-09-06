@@ -1,0 +1,4 @@
+### *.py[cod] *-игнор всех символов на ее месте (0-беск.),[] pyc pyo pyd 
+# - 1, 2 strings - комментарии 3- ne obrashaet vnimanie na papku pycache
+__pycache__/
+log/
