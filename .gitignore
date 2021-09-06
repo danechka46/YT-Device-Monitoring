@@ -2,3 +2,5 @@
 # - 1, 2 strings - комментарии 3- ne obrashaet vnimanie na papku pycache
 __pycache__/
 log/
+docker-compose.yaml
+docker-compose.yaml
